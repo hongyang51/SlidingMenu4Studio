@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         // 设置触摸屏幕的模式
         menu.setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);
         menu.setShadowWidthRes(R.dimen.shadow_width);
-        menu.setShadowDrawable(R.color.colorAccent);
+        menu.setShadowDrawable(R.color.colorPrimary);
 
         // 设置滑动菜单视图的宽度
         menu.setBehindOffsetRes(R.dimen.slidingmenu_offset);
