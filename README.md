@@ -4,6 +4,8 @@
 ##  全新的依赖包方式
 
 第一: 添加下面代码到工程根目录 build.gradle  
+
+
 Add it in your root build.gradle at the end of repositories:
 
 ```
@@ -13,7 +15,9 @@ allprojects {
    }
 }
 ```
-第二: 添加下面代码到工程APP目录下的 build.gradle  
+第二: 添加下面代码到工程APP目录下的 build.gradle
+
+
 Add it in your App build.gradle   Add the dependency:
 
 
