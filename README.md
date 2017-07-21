@@ -19,7 +19,7 @@ Add it in your App build.gradle   Add the dependency:
 
 ```
 dependencies {
-      compile 'com.github.hongyang51:SlidingMenuText:1.0.0'
+      compile 'com.github.hongyang51:SlidingMenu4Studio:1.0.0'
 }
 ```
 简单的使用强大的SlidingMenu 库 并且在Android Studio中依赖! 依赖方法请参考 
